@@ -1,0 +1,15 @@
+{
+    "name": "kolgarn/laravelchaincache",
+    "description": "Chain cache for laravel cache",
+    "require": {
+        "illuminate/cache": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igor Pinchuk",
+            "email": "kolgarn@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev"
+}
